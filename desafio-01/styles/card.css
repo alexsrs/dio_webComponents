@@ -23,7 +23,7 @@
     padding-left: 10px;
 }
 
-.card_left . span {
+.card_left > span {
     font-weight: 400;
 }
 
