@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -16,7 +16,7 @@
 
 }
 
-.card_left{
+.card_left {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -40,6 +40,6 @@
 }
 
 
-.card_right{
+.card_right {
 
 }
